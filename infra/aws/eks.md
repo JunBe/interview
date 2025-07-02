@@ -36,7 +36,7 @@ Q2. EKSの長所は？
 - 標準KubernetesのAPIをそのまま利用できます。
 - Helm、Istio、ArgoCDなど多様なKubernetesエコシステムのツールが使用できます。
 - ノード、ネットワーク、セキュリティなどの精密な制御ができます。
-- EC2基盤、Fargate基盤両方支援します。
+- EC2基盤、Fargate基盤の両方に対応しています。
 
 Q3. EKSの短所は？
 
